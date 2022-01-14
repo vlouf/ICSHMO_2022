@@ -1,0 +1,21 @@
+name: ischmo-radar
+channels:
+  - conda-forge
+dependencies:
+  - python~=3.9
+  - tqdm
+  - seaborn
+  - numpy
+  - matplotlib=3.4.3
+  - proplot
+  - pandas
+  - xarray
+  - arm_pyart
+  - netCDF4
+  - cartopy
+  - h5py
+  - seaborn
+  - bokeh
+  - requests
+  - gdal
+  - pyproj
